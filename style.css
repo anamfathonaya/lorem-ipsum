@@ -21,7 +21,7 @@ h1{
 
 main{
     float: left; text-align: justify;
-    width: 65%;
+    width: 60%;
 }
 
 aside{
@@ -31,4 +31,26 @@ aside{
 
 footer{
     clear: both;
+}
+
+#Other_Article{
+    text-emphasis: 1px;
+}
+
+table{ 
+    border: 1px solid black;
+    border-collapse: collapse; 
+}
+
+td, th{
+    border: 1px solid black;
+    padding: 5px; text-align: center;
+}
+
+.gambar{
+    width: 60%; 
+}
+
+figcaption{
+    font-style: oblique;
 }
